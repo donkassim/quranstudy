@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chapters/78/themes.md",
+                "file": "chapters/67/verses.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "themes"
+              "title": "verses"
+            }
+          },
+          {
+            "id": "84e59b131ee1a176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/78/verses.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "verses"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#paradise/description",
+                "query": "tag:#divine/knowledge",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "chapters/78/themes.md",
+                "file": "chapters/78/verses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for themes"
+              "title": "Backlinks for verses"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "chapters/78/themes.md",
+                "file": "chapters/78/verses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from themes"
+              "title": "Outgoing links from verses"
             }
           },
           {
@@ -153,14 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "chapters/78/themes.md"
+                "file": "chapters/78/verses.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of themes"
+              "title": "Outline of verses"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,44 +191,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05da4d9251538448",
+  "active": "84e59b131ee1a176",
   "lastOpenFiles": [
-    "chapters/78/reflection-template.md",
     "chapters/78/An-Naba.md",
-    "chapters/67/Al-Mulk.md",
-    "chapters/36/chapter36.md",
-    "cross-chapter-concepts.md",
-    "chapters/78/verses.md",
-    "tafsir/qurtubi/waqiah-paradise.md",
+    "tafsir/almizan/naba-detailed-verses.md",
     "tafsir-references.md",
+    "Tafsir Al-Mizan SURAH 78.pdf",
+    "tafsir/almizan/naba-resurrection.md",
+    "chapters/78/word-analysis.md",
+    "chapters/78/verses.md",
+    "chapters/78/themes.md",
+    "chapters/78/reflection-template.md",
+    "chapters/36/verses.md",
+    "chapters/36/word-analysis.md",
+    "tafsir/almizan/waqiah-three-groups.md",
+    "tafsir/almizan/yasin-key-themes.md",
+    "tafsir/almizan/asr-salvation.md",
+    "tafsir/almizan/mulk-creation-concepts.md",
+    "tafsir/almizan",
+    "chapters/67/verses.md",
+    "chapters/67/themes.md",
+    "chapters/67/reflection-template.md",
+    "chapters/67/Al-Mulk.md",
+    "chapter-structure-visualization.md",
+    "cross-chapter-concepts.md",
+    "concept-maps.md",
+    "chapters/103/chapter103.md",
+    "scientific-references.md",
+    "Day of Judgement.md",
+    "chapters/36/chapter36.md",
     "tafsir/qurtubi",
     "tafsir",
-    "scientific-references.md",
-    "README.md",
-    "concept-maps.md",
-    "chapter-structure-visualization.md",
-    "chapters/78/word-analysis.md",
-    "tag-reference.md",
-    "chapters/67/reflection-template.md",
-    "chapters/56/reflection-template.md",
-    "chapters/103/reflection-template.md",
-    "chapters/36/reflection-template.md",
-    "chapters/67/word-analysis.md",
-    "chapters/36/word-analysis.md",
-    "chapters/56/word-analysis.md",
-    "chapters/103/word-analysis.md",
-    "chapters/67/themes.md",
-    "chapters/56/themes.md",
-    "chapters/103/themes.md",
-    "chapters/36/themes.md",
     "Untitled.canvas",
     "chapters/67",
     "chapters/56",
     "chapters/103",
     "chapters/36",
     "quranstudy/chapters/67",
-    "quranstudy/chapters/56",
-    "quranstudy/chapters/103",
-    "quranstudy/chapters/36"
+    "quranstudy/chapters/56"
   ]
 }
