@@ -59,18 +59,26 @@ This document provides references to scholarly interpretations (tafsir) of the c
 1. **Opening Letters "Ya Sin"**: 
    - Ibn Kathir suggests they may be an oath or a name of the Prophet
    - Al-Tabari presents various interpretations including "O human" or "O Muhammad"
+   - Tabatabai approaches them with caution, suggesting they indicate the miraculous nature of the Quran
 
 2. **Parable of the Town (Verses 13-30)**:
    - Most classical commentators identify this town as Antioch and the messengers as disciples of Jesus
    - Al-Qurtubi discusses the identity of the believing man (Habib al-Najjar)
+   - Tabatabai emphasizes the universal significance beyond historical specificity
 
 3. **"Kun Fayakun" Command (Verse 82)**:
    - Al-Zamakhshari provides extensive analysis of the rhetorical significance
    - Ibn Kathir connects this to other Quranic instances of this divine command
+   - Tabatabai explores the philosophical dimensions of divine creative command
+
+4. **Psychology of Belief and Disbelief**:
+   - Tabatabai uniquely analyzes the psychological barriers to faith described in the surah
+   - He interprets "shackles" and "barriers" as psychological rather than physical impediments
 
 #### Recommended Tafsir Sections:
 - [[tafsir/ibn-kathir/yasin-parable]] - Ibn Kathir on the town parable
 - [[tafsir/qurtubi/yasin-signs]] - Qurtubi on the natural signs in Ya-Sin
+- [[tafsir/almizan/yasin-key-themes]] - Tabatabai's psychological and philosophical analysis
 
 ### Surah Al-Asr (Chapter 103)
 
@@ -101,18 +109,26 @@ This document provides references to scholarly interpretations (tafsir) of the c
 1. **Three Categories of People**:
    - Ibn Kathir provides detailed explanation of who constitutes each group
    - Al-Tabari presents various opinions on who are "the foremost" (as-sabiqun)
+   - Tabatabai offers a distinctive analysis of these as ontological spiritual categories
 
 2. **Descriptions of Paradise**:
    - Al-Qurtubi discusses the material and spiritual nature of Paradise rewards
    - Zamakhshari analyzes the linguistic beauty of Paradise descriptions
+   - Tabatabai distinguishes between the spiritual proximity of the Foremost and the physical pleasures of the Companions of the Right
 
 3. **Natural Signs Section**:
    - Ibn Kathir connects these to evidence for resurrection
    - Maududi relates these to scientific understandings while preserving their spiritual message
+   - Tabatabai presents these as logical arguments establishing human dependency on divine power
+
+4. **The Inevitable Event**:
+   - Tabatabai provides deep linguistic analysis of "waqi'ah" as an event that falls with certainty
+   - He interprets the cosmic transformation as a reordering of reality beyond physical laws
 
 #### Recommended Tafsir Sections:
 - [[tafsir/qurtubi/waqiah-paradise]] - Qurtubi on Paradise descriptions
 - [[tafsir/zamakhshari/waqiah-rhetoric]] - Zamakhshari on rhetorical features
+- [[tafsir/almizan/waqiah-three-groups]] - Tabatabai's analysis of spiritual hierarchy and ontological categories
 
 ### Surah Al-Mulk (Chapter 67)
 
@@ -143,18 +159,26 @@ This document provides references to scholarly interpretations (tafsir) of the c
 1. **"The Great News"**:
    - Ibn Kathir explains this refers specifically to resurrection
    - Al-Tabari presents additional interpretations including revelation of Quran
+   - Tabatabai analyzes the questioning as active disputation rather than mere inquiry
 
 2. **Natural Signs Section**:
    - Al-Zamakhshari analyzes the rhetorical pattern of these verses
    - Al-Qurtubi draws connections between each sign and divine attributes
+   - Tabatabai presents these phenomena as an integrated evidential case for resurrection
 
 3. **Day of Judgment Scenes**:
    - Ibn Kathir provides details from hadith literature
    - Sayyid Qutb emphasizes the psychological impact of these descriptions
+   - Tabatabai extracts the philosophical dimensions of divine justice and accountability
+
+4. **Philosophical Argument**:
+   - Tabatabai uniquely presents the logical structure underlying the surah's progression
+   - He connects the natural phenomena to rational necessity of resurrection
 
 #### Recommended Tafsir Sections:
 - [[tafsir/tabari/naba-great-news]] - Tabari on "the great news"
 - [[tafsir/qurtubi/naba-judgment]] - Qurtubi on Day of Judgment scenes
+- [[tafsir/almizan/naba-resurrection]] - Tabatabai's logical and philosophical analysis
 
 ## How to Study with Tafsir
 
