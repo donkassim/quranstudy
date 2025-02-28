@@ -1,0 +1,317 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+  @import url('https://fonts.googleapis.com/earlyaccess/amiri.css');
+  .font-amiri {
+    font-family: 'Amiri', serif;
+  }
+
+  @font-face {
+    font-family: 'me_quran';
+    src: url('https://cdn.alquran.cloud/public/fonts/me_quran-webfont.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'NooreHidayah';
+    src: url('https://cdn.alquran.cloud/public/fonts/noorehidayat.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Uthmani';
+    src: url('https://cdn.alquran.cloud/public/fonts/uthman_tn09.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Quran';
+    src: url('https://cdn.alquran.cloud/public/fonts/QUR_STD.TTF');
+  }
+
+  @font-face {
+    font-family: 'kfc_naskh';
+    src: url('https://cdn.alquran.cloud/public/fonts/kfc_naskh-webfont.ttf');
+  }
+
+  @font-face {
+    font-family: 'scheherazade';
+    src: url('https://cdn.alquran.cloud/public/fonts/scheherazade-webfont.ttf');
+  }
+
+  @font-face {
+    font-family: 'Kitab-Regular';
+    src: url('https://cdn.alquran.cloud/public/fonts/Kitab-Regular.ttf');
+  }
+
+  @font-face {
+    font-family: 'pdms_saleem';
+    src: url('https://cdn.alquran.cloud/public/fonts/pdms_saleem-webfont.ttf');
+  }
+
+  @font-face {
+    font-family: 'xb_zar-webfont';
+    src: url('https://cdn.alquran.cloud/public/fonts/xb_zar-webfont.ttf');
+  }
+
+  .quran-arabic {
+    background-color: transparent !important;
+    font-family: 'me_quran', 'Segoe UI Fixed', monospace;
+    font-size: 24px !important;
+    line-height: 200%;
+    direction: rtl;
+  }
+
+  .font-size-container {
+      display: flex;
+      align-items: center;
+      gap: 8px; /* Add spacing between elements */
+  }  
+  
+  .font-size-container input[type="text"] {
+      width: 50px;
+      text-align: center;
+  }  
+  
+  .font-size-container button {
+      padding: 4px 8px;
+      cursor: pointer;
+  }
+
+  /* Search Modal Styles */
+  .search-result-container {
+    padding: 8px 12px;
+    border-bottom: 1px solid var(--background-modifier-border);
+  }
+
+  .search-result-reference {
+    font-size: 0.9em;
+    color: var(--text-muted);
+    margin-bottom: 4px;
+  }
+
+  .search-result-translation {
+    color: var(--text-normal);
+    line-height: 1.4;
+  }
+
+  .search-results-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  }
+
+  .pagination-controls {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .suggestion-item {
+    padding: 8px;
+    cursor: pointer;
+    border-bottom: 1px solid var(--background-modifier-border);
+  }
+
+  .suggestion-item:last-child {
+    border-bottom: none;
+  }
+
+  .suggestion-title {
+    font-weight: var(--font-medium);
+    margin-bottom: 4px;
+  }
+
+  .suggestion-text {
+    color: var(--text-muted);
+    font-size: var(--font-ui-smaller);
+    margin-bottom: 4px;
+  }
+
+  .suggestion-item.is-selected {
+    background-color: var(--background-modifier-active);
+  }
+
+  .suggestion-item:hover {
+    background-color: var(--background-modifier-hover);
+  }
+
+  .search-controls-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 8px;
+    border-bottom: 1px solid var(--background-modifier-border);
+  }
+
+  .search-arabic-container {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+
+  .search-arabic-container input[type="checkbox"] {
+    margin: 0;
+  }
+
+  .search-arabic-container label {
+    margin: 0;
+    font-size: var(--font-ui-small);
+    color: var(--text-muted);
+  }
+
+  .search-controls-container button {
+    margin: 0;
+    padding: 4px 12px;
+  }
+
+  .surah-reference {
+    color: #00BCD4;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+  }
+
+  .verse-reference {
+    color: #666;
+    font-size: 0.9em;
+  }
+
+  .search-results-header {
+    padding: 10px;
+    color: #666;
+    font-size: 0.9em;
+  }
+
+  .search-results-count {
+    font-weight: 500;
+  }
+
+  .search-results-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-top: 1px solid var(--background-modifier-border);
+  }
+
+  .pagination-info {
+    color: #666;
+    font-size: 0.9em;
+    margin-left: auto;
+  }
+
+  .search-pagination {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .pagination-controls {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin: 0 auto;
+  }
+
+  .pagination-controls button {
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+
+  .pagination-controls span {
+    min-width: 100px;
+    text-align: center;
+  }
+
+  .container {
+    touch-action: none; /* Prevent touch gestures like scrolling from interfering */
+  }
+
+  .draggable-header {
+    background-color: var(--background-secondary);
+    color: var(--text-primary);
+    font-size: 14px;
+    font-weight: bold;
+    border-bottom: 1px solid var(--background-modifier-border);
+    padding: 5px 10px;
+    cursor: move;
+  }
+
+  /* For responsive design */
+
+  .draggable-keyboard-container {
+    position: fixed; /* Float the keyboard */
+    bottom: 0; /* Stick to the bottom */
+    left: 50%; /* Center horizontally */
+    transform: translateX(-50%);
+    width: 100%; /* Full screen width */
+    max-width: 600px; /* Restrict on larger screens */
+    background-color: #fff;
+    border-radius: 6px 6px 0 0;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    overflow: hidden; /* Prevent content overflow */
+    box-sizing: border-box;
+    z-index: 1000;
+}
+
+.keyboard-section {
+    display: flex;
+    flex-direction: column; /* Stack rows vertically */
+    gap: 4px; /* Gap between rows */
+    padding: 10px;
+}
+
+.keyboard-section div { /* Each row */
+    display: flex;
+    justify-content: space-between; /* Evenly distribute keys */
+    gap: 2px; /* Small gap between keys */
+}
+
+.keyboard-section button {
+    flex: 1 1 auto; /* Make all buttons grow/shrink equally */
+    min-width: 8%; /* Each button takes a portion of the row */
+    height: 36px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f9f9f9;
+    text-align: center;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width: 768px) { /* Tablets and smaller screens */
+    .keyboard-section button {
+        min-width: 6%;
+        height: 32px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 480px) { /* Mobile phones */
+    .keyboard-section button {
+        min-width: 5%;
+        height: 28px;
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 360px) { /* Very small devices */
+    .keyboard-section button {
+        min-width: 4%;
+        height: 24px;
+        font-size: 8px;
+    }
+}

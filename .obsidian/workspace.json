@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "a68d347fb8a4369d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1bad289229150a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05da4d9251538448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tafsir-references.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "tafsir-references"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b960e5351f36df45",
+    "type": "split",
+    "children": [
+      {
+        "id": "a157d8f9104daa86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d438cc92d68bc4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "044dad00af3e64d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#paradise/description",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "223344a1d75c7381",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a38631701674db8",
+    "type": "split",
+    "children": [
+      {
+        "id": "56eecf97d96a28b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "299461e13b3b364c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "tafsir-references.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for tafsir-references"
+            }
+          },
+          {
+            "id": "ef02e70d4facc8cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "tafsir-references.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from tafsir-references"
+            }
+          },
+          {
+            "id": "493e2f022c9bb513",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1760aeb3b15c46fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/78/reflection-template.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "reflection-template"
+            }
+          },
+          {
+            "id": "5a0e578485307219",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "tafsir-references.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of tafsir-references"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 511.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "05da4d9251538448",
+  "lastOpenFiles": [
+    "scientific-references.md",
+    "README.md",
+    "cross-chapter-concepts.md",
+    "concept-maps.md",
+    "chapter-structure-visualization.md",
+    "chapters/78/word-analysis.md",
+    "chapters/78/verses.md",
+    "chapters/78/reflection-template.md",
+    "chapters/78/chapter78.md",
+    "chapters/67/chapter67.md",
+    "tag-reference.md",
+    "tafsir-references.md",
+    "chapters/67/reflection-template.md",
+    "chapters/56/reflection-template.md",
+    "chapters/103/reflection-template.md",
+    "chapters/36/reflection-template.md",
+    "chapters/67/word-analysis.md",
+    "chapters/36/word-analysis.md",
+    "chapters/56/word-analysis.md",
+    "chapters/103/word-analysis.md",
+    "chapters/67/themes.md",
+    "chapters/56/themes.md",
+    "chapters/103/themes.md",
+    "chapters/36/themes.md",
+    "chapters/67/verses.md",
+    "chapters/103/verses.md",
+    "Untitled.canvas",
+    "chapters/67",
+    "chapters/56",
+    "chapters/103",
+    "chapters/36",
+    "quranstudy/chapters/67",
+    "quranstudy/chapters/56",
+    "quranstudy/chapters/103",
+    "quranstudy/chapters/36"
+  ]
+}

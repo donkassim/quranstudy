@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 23,
+  "theme": "obsidian",
+  "cssTheme": "Dracula Official",
+  "translucency": false,
+  "enabledCssSnippets": [],
+  "accentColor": "#705dcf",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "textFontFamily": "MesloLGL Nerd Font",
+  "monospaceFontFamily": "MesloLGL Nerd Font Mono",
+  "interfaceFontFamily": "MesloLGL Nerd Font",
+  "baseFontSizeAction": true
+}

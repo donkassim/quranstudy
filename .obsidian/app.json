@@ -1,0 +1,15 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "rightToLeft": false,
+  "spellcheck": true,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "defaultViewMode": "preview"
+}
