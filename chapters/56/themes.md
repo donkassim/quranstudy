@@ -1,6 +1,8 @@
 # Key Themes in Surah Al-Waqi'ah
 
-## 1. The Inevitability and Transformative Nature of the Day of Judgment
+#chapter56 #alwaqiah #resurrection #judgment #paradise #hellfire
+
+## 1. The Inevitable Event (Al-Waqi'ah)
 The surah opens with a powerful depiction of the inescapable nature of the Day of Judgment and its earth-shattering impact.
 
 ### Analysis Points:
@@ -9,6 +11,12 @@ The surah opens with a powerful depiction of the inescapable nature of the Day o
 - The cataclysmic physical transformations described (earth shaken, mountains crumbled)
 - The dramatic reversal of circumstances ("bringing down some and raising up others")
 - The psychological impact of presenting judgment as absolutely certain
+- #key/term #judgment #resurrection #imagery #divine/sovereignty
+
+### Related Themes in Other Chapters:
+- [[chapters/78/themes#1. The Great News (An-Naba)]] - Similar emphasis on certainty of a momentous event
+- [[chapters/36/themes#4. Resurrection and Judgment]] - Complementary description of judgment day
+- [[chapters/67/themes#4. The Reality of Judgment]] - Parallel portrayal of judgment's inevitability
 
 ## 2. The Three-Fold Classification of Humanity
 A distinctive feature of this surah is its classification of humanity into three distinct groups based on their faith and deeds.
@@ -19,6 +27,12 @@ A distinctive feature of this surah is its classification of humanity into three
 - The Companions of the Left (Ashab al-Shimal): Their failures and punishment
 - The hierarchical nature of reward in the afterlife
 - The proportional relationship between earthly choices and eternal outcomes
+- #key/term #human/accountability #divine/justice #paradise/inhabitants #hellfire/inhabitants
+
+### Related Themes in Other Chapters:
+- [[chapters/78/themes#4. The Fate of the Transgressors]] - Binary outcome contrasting with this three-fold division
+- [[chapters/78/themes#5. The Rewards of the Righteous]] - Complementary description of rewards
+- [[chapters/103/themes#3. The Four-Part Formula for Success]] - Detailed criteria for positive outcomes
 
 ## 3. The Detailed Depiction of Paradise
 The surah provides exceptionally vivid descriptions of the pleasures and comforts awaiting the righteous in Paradise.
