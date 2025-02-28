@@ -179,6 +179,7 @@ This document provides references to scholarly interpretations (tafsir) of the c
 - [[tafsir/tabari/naba-great-news]] - Tabari on "the great news"
 - [[tafsir/qurtubi/naba-judgment]] - Qurtubi on Day of Judgment scenes
 - [[tafsir/almizan/naba-resurrection]] - Tabatabai's logical and philosophical analysis
+- [[tafsir/almizan/naba-detailed-verses]] - Tabatabai's detailed commentary on verses 19-28
 
 ## How to Study with Tafsir
 
