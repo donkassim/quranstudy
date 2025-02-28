@@ -2,6 +2,18 @@
 
 This Obsidian vault is designed for in-depth study of the Quran, focusing on five chapters: Ya-Sin (36), Al-Waqi'ah (56), Al-Mulk (67), An-Naba (78), and Al-Asr (103). The structure allows for deep analysis of the Arabic text, translations, scholarly commentaries, and thematic connections.
 
+## New Features & Enhancements
+
+**Recently added:**
+
+- **Interactive Concept Maps**: Enhanced visualization tools with color-coding suggestions, verse annotations, and personal connection prompts in `concept-maps.md`
+  
+- **Enhanced Reflection Templates**: Extended templates with guided meditation exercises, application scenarios, and weekly progress tracking
+
+- **Cross-Chapter Theme Linking**: Systematic linking between related themes across different chapters with bidirectional references
+
+- **Integrated Tagging System**: Comprehensive tagging implementation that connects related concepts, reinforcing the knowledge graph
+
 ## Structure
 
 - `/chapters/` - Contains folders for each chapter of study
