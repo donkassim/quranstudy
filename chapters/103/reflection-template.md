@@ -100,6 +100,20 @@ Reasons why:
 [Your notes here]
 ```
 
+## Guided Meditation Exercises
+
+### Exercise 1: Time Awareness Meditation (5-10 minutes)
+*Close your eyes and focus on your breath. Consider how each breath represents a moment of your limited time in this world. Reflect on how you can make each moment count toward the four elements of salvation.*
+
+### Exercise 2: Self-Assessment Visualization (10-15 minutes)
+*Imagine yourself standing before four pillars labeled Faith, Good Deeds, Truth, and Patience. Visualize the relative heights of each pillar in your life. Which stands tallest? Which needs strengthening? What specific actions would raise each pillar?*
+
+### Exercise 3: Community Connection Reflection (10 minutes)
+*Bring to mind 3-5 people in your community. For each person, consider:
+- How might you encourage them toward truth?
+- How might you support their patience through difficulties?
+- What mutual encouragement do they provide to you?*
+
 ## Action Plan
 *Based on your reflection, what specific actions will you take to better implement the guidance of this surah in your life?*
 
@@ -113,9 +127,47 @@ Encouraging truth actions:
 Encouraging patience actions:
 ```
 
+## Application Scenarios
+*For each scenario below, note how you could apply the principles of Surah Al-Asr:*
+
+1. When facing a difficult work/school deadline:
+```
+[Your response]
+```
+
+2. When encountering someone who holds different beliefs:
+```
+[Your response]
+```
+
+3. When observing injustice or unethical behavior:
+```
+[Your response]
+```
+
+4. During personal hardship or loss:
+```
+[Your response]
+```
+
 ## Regular Review
 *How will you remind yourself of the lessons of this surah on a regular basis?*
 
 ```
 [Your notes here]
+```
+
+## Weekly Check-in
+*At the end of each week, rate your progress (1-10) on implementing each element:*
+
+```
+Week ending: [Date]
+
+Faith: [1-10]
+Righteous deeds: [1-10] 
+Encouraging truth: [1-10]
+Encouraging patience: [1-10]
+
+One success this week:
+One challenge to address next week:
 ```
