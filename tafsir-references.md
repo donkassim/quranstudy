@@ -44,6 +44,13 @@ This document provides references to scholarly interpretations (tafsir) of the c
 - **Features**: Accessible language, focus on practical guidance
 - **Online**: [Islamicstudies.info Tafhim](https://www.islamicstudies.info/tafheem.php)
 
+#### Tafsir Al-Mizan (الميزان في تفسير القرآن)
+- **Author**: Allamah Sayyid Muhammad Husayn Tabatabai (1904-1981 CE)
+- **Approach**: Thematic interpretation with philosophical, mystical, and scientific dimensions
+- **Features**: Quranic interpretation of Quran (letting verses explain other verses), integration of rational and traditional approaches
+- **Notable Aspects**: Strong emphasis on philosophical questions, detailed linguistic analysis, and addressing scientific concepts
+- **Online**: Available at [almizan.org](https://almizan.org) and [al-islam.org](https://www.al-islam.org/al-mizan-exegesis-quran-allamah-sayyid-muhammad-husayn-tabatabai)
+
 ## Chapter-Specific Tafsir References
 
 ### Surah Ya-Sin (Chapter 36)
@@ -71,18 +78,22 @@ This document provides references to scholarly interpretations (tafsir) of the c
 1. **Meaning of "Al-Asr"**:
    - Ibn Kathir: Could refer to time in general or specifically afternoon time
    - Al-Tabari: Presents multiple interpretations including "the age" or "time through history"
+   - Tabatabai: Views time as a dimension in which human reality unfolds and as a witness to human actions
 
 2. **State of Loss**:
    - Al-Qurtubi elaborates on different dimensions of loss (material, spiritual, eternal)
    - Sayyid Qutb connects this to modern human conditions and materialism
+   - Tabatabai analyzes "loss" as diminishment of one's existential capital and true human essence
 
 3. **Four Elements of Salvation**:
    - Ibn Kathir emphasizes their interconnected nature
    - Maududi discusses the social dimensions of mutual encouragement
+   - Tabatabai presents a hierarchical and integrated system moving from individual to communal dimensions
 
 #### Recommended Tafsir Sections:
 - [[tafsir/ibn-kathir/alasr-elements]] - Ibn Kathir on the four elements
 - [[tafsir/fi-zilal/alasr-modern]] - Sayyid Qutb's modern application
+- [[tafsir/almizan/asr-salvation]] - Tabatabai's philosophical and social analysis
 
 ### Surah Al-Waqi'ah (Chapter 56)
 
@@ -109,18 +120,22 @@ This document provides references to scholarly interpretations (tafsir) of the c
 1. **Creation of Death and Life**:
    - Ibn Kathir discusses why death is mentioned before life
    - Al-Tabari presents various interpretations of "best in deeds" (quality vs. quantity)
+   - Tabatabai examines the ontological reality of death as a created entity, not merely absence of life
 
 2. **Flawless Creation**:
    - Al-Zamakhshari provides detailed linguistic analysis of terms for flaws/cracks
    - Sayyid Qutb connects this passage to contemplation of natural world
+   - Tabatabai explores the philosophical implications of perfection in creation and rational investigation
 
 3. **Earth Made Subservient**:
    - Al-Qurtubi discusses the legal and ethical implications of human stewardship
    - Maududi relates this to modern environmental considerations
+   - Tabatabai analyzes the concept of "tame" (dhalul) as serviceability rather than complete submission
 
 #### Recommended Tafsir Sections:
 - [[tafsir/ibn-kathir/mulk-death-life]] - Ibn Kathir on creation of death and life
 - [[tafsir/fi-zilal/mulk-creation]] - Sayyid Qutb on contemplating creation
+- [[tafsir/almizan/mulk-creation-concepts]] - Tabatabai's philosophical analysis of sovereignty and creation
 
 ### Surah An-Naba (Chapter 78)
 
