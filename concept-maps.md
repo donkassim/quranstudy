@@ -108,24 +108,24 @@ For deeper engagement with these concept maps:
 
 ```
                                ┌──────────────┐
-                               │     TIME     │├─────┐
+                               │     TIME     │├─────┐      [103:1]
                                │   (AL-ASR)   ││     │ Witness to
                                └───────┬──────┘│     │ human condition
                                        │       │     │
-                                       │       │     │
-                                       ▼       │     │
+                                       │       │     │      Q: How does time itself 
+                                       ▼       │     │      testify against humanity?
                                ┌──────────────┐│     │
-                               │  HUMAN STATE │◄─────┘
+                               │  HUMAN STATE │◄─────┘      [103:2]
                                │   OF LOSS    │
                                └───────┬──────┘
-                                       │
-                                       │ Exception pathway
-                                       │
+                                       │               PERSONAL CONNECTION:
+                                       │ Exception pathway  When I waste time on
+                                       │               distractions, I feel this loss
                                        ▼
                                ┌──────────────┐
-                               │  SALVATION   │
-                               │   FORMULA    │
-                               └───────┬──────┘
+                               │  SALVATION   │               MODERN APPLICATION:
+                               │   FORMULA    │      [103:3]  Digital communities can
+                               └───────┬──────┘               enable mutual encouragement
                                        │
                  ┌─────────────────────┴────────────────────┐
                  │                                           │
@@ -153,6 +153,23 @@ For deeper engagement with these concept maps:
 │              │  │               │     │              │     │ difficulties │
 └──────────────┘  └───────────────┘     └─────────────┘     └─────────────┘
 ```
+
+**Color Coding Legend:**
+- <span style="color:green">**Green (Personal Resonance)**</span>: TIME concept, MUTUAL ENCOURAGEMENT TO PATIENCE
+- <span style="color:yellow">**Yellow (Challenging Concepts)**</span>: How TIME witnesses against humanity
+- <span style="color:blue">**Blue (Further Study)**</span>: COMMUNAL DIMENSIONS, relationship between individual and communal salvation
+
+**Questions for Deeper Exploration:**
+1. How does time itself serve as a witness against humanity?
+2. What is the relationship between individual faith and communal responsibility?
+3. Why are truth and patience specifically highlighted for mutual encouragement?
+4. How does the brevity of this surah relate to its message about time?
+
+**Contemporary Applications:**
+1. **Digital Age Distractions**: The concept of time and loss applies to modern digital distractions
+2. **Online Communities**: Virtual spaces can serve as venues for mutual encouragement
+3. **Truth in Misinformation Era**: The emphasis on truth has special relevance in today's information landscape
+4. **Patience in Instant Gratification Culture**: The value of patience counters modern expectations for immediate results
 
 ## Surah Al-Waqi'ah (Chapter 56) - Three-Fold Classification
 
@@ -220,7 +237,7 @@ For deeper engagement with these concept maps:
 
 ```
                               ┌────────────────┐
-                              │    DIVINE      │
+                              │    DIVINE      │      [67:1]
                               │  SOVEREIGNTY   │
                               └────────┬───────┘
                                        │
@@ -236,20 +253,22 @@ For deeper engagement with these concept maps:
 ┌───────────────────┐  ┌────────────────┐ ┌───────────────┐ ┌─────────────────┐
 │ • Created both to │  │ • Seven heavens│ │ • Hell raging │ │ • Awareness of  │
 │   test humans     │  │ • No flaws     │ │   with anger  │ │   inner thoughts│
-│ • "Best in deed"  │  │ • Stars as     │ │ • Admission   │ │ • Subtle and    │
+│ • "Best in deed"  │  │ • Stars as     │ │ • Admission   │ │ • Subtle and    │  [67:14]
 │   (quality focus) │  │   lamps and    │ │   of error    │ │   acquainted    │
-│                   │  │   protection   │ │   too late    │ │                 │
+│  [67:2]           │  │   protection   │ │   too late    │ │                 │
 └───────────────────┘  └────────────────┘ └───────────────┘ └─────────────────┘
-
+   PERSONAL CONNECTION:                     Q: How does divine knowledge
+   Daily choices are the                    affect human accountability?
+   real test, not outcomes
 
                               ┌────────────────┐
                               │   EARTH AS     │
-                              │ DIVINE BLESSING│
+                              │ DIVINE BLESSING│      [67:15]
                               └────────┬───────┘
-                                       │
-          ┌────────────────────┬──────┴───────┬───────────────────┐
-          │                    │              │                   │
-          ▼                    ▼              ▼                   ▼
+                                       │            MODERN APPLICATION:
+          ┌────────────────────┬──────┴───────┬───────────────────┐  Environmental
+          │                    │              │                   │  stewardship of
+          ▼                    ▼              ▼                   ▼  a "tame" earth
 ┌───────────────────┐  ┌────────────────┐ ┌───────────────┐ ┌─────────────────┐
 │  MADE SUBSERVIENT │  │  POTENTIAL FOR │ │  NATURAL      │ │  HUMAN PATH     │
 │      (TAME)       │  │   PUNISHMENT   │ │   SIGNS       │ │   CHOICES       │
@@ -261,9 +280,26 @@ For deeper engagement with these concept maps:
 │   human benefit   │  │   swallow      │ │   flight      │ │   straight path │
 │ • Travel and      │  │ • Violent      │ │ • Water       │ │   vs.           │
 │   sustenance      │  │   winds        │ │   provision   │ │ • Fallen on     │
-│                   │  │ • No escape    │ │               │ │   face          │
+│   [67:15]         │  │ • No escape    │ │   [67:30]     │ │   face  [67:22] │
 └───────────────────┘  └────────────────┘ └───────────────┘ └─────────────────┘
 ```
+
+**Color Coding Legend:**
+- <span style="color:green">**Green (Personal Resonance)**</span>: LIFE & DEATH AS TEST, HUMAN PATH CHOICES
+- <span style="color:yellow">**Yellow (Challenging Concepts)**</span>: FLAWLESS CREATION (reconciling with apparent imperfections)
+- <span style="color:blue">**Blue (Further Study)**</span>: DIVINE SOVEREIGNTY, relationship between sovereignty and human free will
+
+**Questions for Deeper Exploration:**
+1. How does divine knowledge of inner thoughts affect the concept of accountability?
+2. What is the precise meaning of "best in deed" (ahsanu amalan) versus quantity of deeds?
+3. How can creation be described as "flawless" when we observe natural disasters?
+4. What is the relationship between Earth being "tame" and human responsibility?
+
+**Contemporary Applications:**
+1. **Environmental Stewardship**: Earth made "tame" implies responsibility for its care
+2. **Quality vs. Quantity**: The emphasis on "best in deed" relates to modern focus on productivity
+3. **Digital Privacy**: Divine knowledge of inner thoughts parallels modern privacy concerns
+4. **Achievement Culture**: "Best in deed" challenges modern metrics of success and achievement
 
 ## Surah An-Naba (Chapter 78) - The Great News
 
