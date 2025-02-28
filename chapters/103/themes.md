@@ -1,5 +1,7 @@
 # Key Themes in Surah Al-Asr
 
+#chapter103 #alasr #time #faith #human/nature #moral/lesson
+
 ## 1. Time as Witness to the Human Condition
 The surah begins with an oath by time itself, highlighting its significance as a dimension in which human life unfolds and is judged.
 
@@ -9,6 +11,12 @@ The surah begins with an oath by time itself, highlighting its significance as a
 - The relationship between time and the evaluation of human actions
 - The universal experience of time as a context for the human condition
 - Time as both witness and judge of how we spend our lives
+- #oath #key/term #time
+
+### Related Themes in Other Chapters:
+- [[chapters/36/themes#2. The Limited Nature of Human Life]] - Further exploration of life's temporality
+- [[chapters/67/themes#1. Life and Death as a Divine Test]] - Connects time to purpose of testing
+- [[chapters/78/themes#3. The Day of Judgment]] - Time culminating in final judgment
 
 ## 2. The Default State of Loss
 The second verse presents a stark universal assessment: humankind is fundamentally in a state of loss.
@@ -19,6 +27,12 @@ The second verse presents a stark universal assessment: humankind is fundamental
 - The implication that without intervention, loss is the natural outcome of life
 - The psychological impact of recognizing one's state of loss
 - How this verse serves as a diagnosis before the prescription that follows
+- #key/term #human/nature #warning
+
+### Related Themes in Other Chapters:
+- [[chapters/78/themes#1. The Great News (An-Naba)]] - Contrasts with certainty of judgment
+- [[chapters/56/themes#4. Warning to Deniers]] - Similar warning about human condition
+- [[chapters/67/themes#3. The Consequences of Disbelief]] - Parallel depiction of loss
 
 ## 3. The Four-Part Formula for Success
 The third verse provides the exception to universal loss through four interconnected qualities that together constitute salvation.

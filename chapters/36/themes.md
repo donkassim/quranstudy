@@ -1,5 +1,7 @@
 # Key Themes in Surah Ya-Sin
 
+#chapter36 #yasin #prophethood #revelation #guidance #faith
+
 ## 1. The Authenticity of Prophet Muhammad's Message
 The surah begins by confirming Muhammad's status as a messenger on a straight path. This establishes the legitimacy of his prophethood and the divine source of his message.
 
@@ -8,6 +10,12 @@ The surah begins by confirming Muhammad's status as a messenger on a straight pa
 - Emphasis on the Quran as a revelation from "the Exalted in Might, the Merciful"
 - The role of the Prophet as a warner to people whose forefathers had not been warned
 - The continuity of Muhammad's message with previous prophetic missions (illustrated in the city parable)
+- #oath #prophethood #revelation #warning
+
+### Related Themes in Other Chapters:
+- [[chapters/67/verses#Verses 25-26]] - Similar emphasis on Muhammad's role as a clear warner
+- [[chapters/103/themes#3. The Four-Part Formula for Success]] - Continuation of divine guidance message
+- [[chapters/56/verses#Verses 75-80]] - Similar oath affirming revelation's authenticity
 
 ## 2. The Rejection of Truth and Its Consequences
 A central theme is how people respond to divine guidance, particularly focusing on those who reject it despite clear signs.
@@ -18,8 +26,14 @@ A central theme is how people respond to divine guidance, particularly focusing 
 - The contrast between the believing man who was rewarded and his people who were destroyed
 - The psychological aspect of rejection—stubbornness despite obvious signs
 - The regret of disbelievers in the afterlife: "If only we had been listening or reasoning..."
+- #disbelief #parable #imagery #psychological #human/nature
 
-## 3. Signs of Allah's Power in Creation
+### Related Themes in Other Chapters:
+- [[chapters/78/themes#1. The Great News (An-Naba)]] - Similar theme of questioning and denial
+- [[chapters/67/themes#3. The Consequences of Disbelief]] - Parallel description of rejection's outcomes
+- [[chapters/103/themes#2. The Default State of Loss]] - Contrasting positive response with default state
+
+## 3. Divine Signs in Nature
 The surah presents numerous natural phenomena as evidence of Allah's existence, power, and ability to resurrect.
 
 ### Analysis Points:
@@ -29,8 +43,14 @@ The surah presents numerous natural phenomena as evidence of Allah's existence, 
 - Birds in flight supported by divine power
 - The creation of humans from a small fluid
 - Fire from green trees as a demonstration of Allah's ability to bring forth opposites
+- #natural/signs #divine/creation #divine/power #resurrection
 
-## 4. Resurrection and the Day of Judgment
+### Related Themes in Other Chapters:
+- [[chapters/78/themes#2. Signs of Allah's Power in Creation]] - Complementary set of natural phenomena
+- [[chapters/67/themes#2. The Perfection of Creation]] - Similar focus on design in creation
+- [[chapters/56/themes#5. Divine Power Over Natural Elements]] - Parallel examples of divine control
+
+## 4. Resurrection and Judgment
 The reality of resurrection and the inevitability of judgment form a major theme, with vivid descriptions of what will occur.
 
 ### Analysis Points:
@@ -39,6 +59,12 @@ The reality of resurrection and the inevitability of judgment form a major theme
 - The contrast between believers enjoying Paradise and disbelievers suffering in Hell
 - The testimony of body parts against their owners on the Day of Judgment
 - The conclusive argument: "He who created them the first time can easily resurrect them"
+- #resurrection #judgment #paradise #hellfire #divine/justice
+
+### Related Themes in Other Chapters:
+- [[chapters/78/themes#3. The Day of Judgment]] - Additional details about judgment day events
+- [[chapters/56/themes#1. The Inevitable Event (Al-Waqi'ah)]] - Complementary description of the event
+- [[chapters/67/themes#4. The Reality of Judgment]] - Further reinforcement of judgment's certainty
 
 ## 5. Allah's Complete Knowledge and Control
 The surah emphasizes Allah's omniscience and absolute control over all aspects of creation.

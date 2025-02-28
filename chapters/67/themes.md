@@ -1,6 +1,8 @@
 # Key Themes in Surah Al-Mulk
 
-## 1. Allah's Supreme Sovereignty and Power
+#chapter67 #almulk #divine/sovereignty #divine/power #divine/creation
+
+## 1. Divine Sovereignty and Power
 The surah opens by establishing Allah's absolute dominion and control over all existence, setting the foundation for all that follows.
 
 ### Analysis Points:
@@ -9,8 +11,14 @@ The surah opens by establishing Allah's absolute dominion and control over all e
 - The assertion of Allah's power over "all things" (kulli shay')
 - The consistent reinforcement of divine authority throughout the surah
 - The contrast between true sovereignty (Allah's) and illusory power (humans')
+- #key/term #divine/sovereignty #divine/power
 
-## 2. Life and Death as Divine Tests
+### Related Themes in Other Chapters:
+- [[chapters/78/themes#2. Signs of Allah's Power in Creation]] - Further demonstrations of divine authority
+- [[chapters/56/themes#5. Divine Power Over Natural Elements]] - Similar emphasis on divine control
+- [[chapters/36/themes#5. Allah's Complete Knowledge and Control]] - Complementary focus on divine authority
+
+## 2. Life and Death as a Divine Test
 A profound theological concept introduced early in the surah is that Allah created both life and death specifically as a test for humanity.
 
 ### Analysis Points:
@@ -19,6 +27,12 @@ A profound theological concept introduced early in the surah is that Allah creat
 - The quality ("best") rather than quantity of deeds being emphasized
 - The pairing of Allah's might ('Aziz) with His forgiveness (Ghafur)
 - The implications for understanding suffering and challenges in life
+- #key/term #divine/purpose #human/accountability #moral/lesson
+
+### Related Themes in Other Chapters:
+- [[chapters/103/themes#1. Time as Witness to the Human Condition]] - Similar concept of limited time for testing
+- [[chapters/78/themes#2. Signs of Allah's Power in Creation]] - Purpose behind creation
+- [[chapters/56/themes#3. Human Accountability]] - Parallel theme of deeds determining outcomes
 
 ## 3. The Perfection of Allah's Creation
 The surah directs attention to the flawless nature of the universe as evidence of Allah's design and power.
