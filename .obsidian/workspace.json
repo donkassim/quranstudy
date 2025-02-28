@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tafsir-references.md",
+                "file": "chapters/78/themes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tafsir-references"
+              "title": "themes"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tafsir-references.md",
+                "file": "chapters/78/themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tafsir-references"
+              "title": "Backlinks for themes"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tafsir-references.md",
+                "file": "chapters/78/themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from tafsir-references"
+              "title": "Outgoing links from themes"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tafsir-references.md"
+                "file": "chapters/78/themes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of tafsir-references"
+              "title": "Outline of themes"
             }
           }
         ],
@@ -179,18 +179,22 @@
   },
   "active": "05da4d9251538448",
   "lastOpenFiles": [
+    "chapters/78/reflection-template.md",
+    "chapters/78/An-Naba.md",
+    "chapters/67/Al-Mulk.md",
+    "chapters/36/chapter36.md",
+    "cross-chapter-concepts.md",
+    "chapters/78/verses.md",
+    "tafsir/qurtubi/waqiah-paradise.md",
+    "tafsir-references.md",
+    "tafsir/qurtubi",
+    "tafsir",
     "scientific-references.md",
     "README.md",
-    "cross-chapter-concepts.md",
     "concept-maps.md",
     "chapter-structure-visualization.md",
     "chapters/78/word-analysis.md",
-    "chapters/78/verses.md",
-    "chapters/78/reflection-template.md",
-    "chapters/78/chapter78.md",
-    "chapters/67/chapter67.md",
     "tag-reference.md",
-    "tafsir-references.md",
     "chapters/67/reflection-template.md",
     "chapters/56/reflection-template.md",
     "chapters/103/reflection-template.md",
@@ -203,8 +207,6 @@
     "chapters/56/themes.md",
     "chapters/103/themes.md",
     "chapters/36/themes.md",
-    "chapters/67/verses.md",
-    "chapters/103/verses.md",
     "Untitled.canvas",
     "chapters/67",
     "chapters/56",
