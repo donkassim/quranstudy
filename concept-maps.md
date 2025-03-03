@@ -15,6 +15,7 @@ This document provides visual concept maps for key themes and concepts in the st
 For deeper engagement with these concept maps:
 
 1. **Color Coding**: Print these maps and use different colors to highlight:
+
    - Concepts that resonated with you personally (green)
    - Concepts you found challenging to understand (yellow)
    - Concepts you want to study more deeply (blue)
@@ -60,8 +61,8 @@ For deeper engagement with these concept maps:
                                 │   Guidance    │             │   Spiritual   │
                                 │               │             │   Blindness   │
                                 └───────────────┘             └───────────────┘
-        
-        
+
+
                           ┌───────────────────┐
                           │   RESURRECTION    │
                           │   & JUDGMENT      │
@@ -112,7 +113,7 @@ For deeper engagement with these concept maps:
                                │   (AL-ASR)   ││     │ Witness to
                                └───────┬──────┘│     │ human condition
                                        │       │     │
-                                       │       │     │      Q: How does time itself 
+                                       │       │     │      Q: How does time itself
                                        ▼       │     │      testify against humanity?
                                ┌──────────────┐│     │
                                │  HUMAN STATE │◄─────┘      [103:2]
@@ -155,17 +156,20 @@ For deeper engagement with these concept maps:
 ```
 
 **Color Coding Legend:**
+
 - <span style="color:green">**Green (Personal Resonance)**</span>: TIME concept, MUTUAL ENCOURAGEMENT TO PATIENCE
 - <span style="color:yellow">**Yellow (Challenging Concepts)**</span>: How TIME witnesses against humanity
 - <span style="color:blue">**Blue (Further Study)**</span>: COMMUNAL DIMENSIONS, relationship between individual and communal salvation
 
 **Questions for Deeper Exploration:**
+
 1. How does time itself serve as a witness against humanity?
 2. What is the relationship between individual faith and communal responsibility?
 3. Why are truth and patience specifically highlighted for mutual encouragement?
 4. How does the brevity of this surah relate to its message about time?
 
 **Contemporary Applications:**
+
 1. **Digital Age Distractions**: The concept of time and loss applies to modern digital distractions
 2. **Online Communities**: Virtual spaces can serve as venues for mutual encouragement
 3. **Truth in Misinformation Era**: The emphasis on truth has special relevance in today's information landscape
@@ -285,17 +289,20 @@ For deeper engagement with these concept maps:
 ```
 
 **Color Coding Legend:**
+
 - <span style="color:green">**Green (Personal Resonance)**</span>: LIFE & DEATH AS TEST, HUMAN PATH CHOICES
 - <span style="color:yellow">**Yellow (Challenging Concepts)**</span>: FLAWLESS CREATION (reconciling with apparent imperfections)
 - <span style="color:blue">**Blue (Further Study)**</span>: DIVINE SOVEREIGNTY, relationship between sovereignty and human free will
 
 **Questions for Deeper Exploration:**
+
 1. How does divine knowledge of inner thoughts affect the concept of accountability?
 2. What is the precise meaning of "best in deed" (ahsanu amalan) versus quantity of deeds?
 3. How can creation be described as "flawless" when we observe natural disasters?
 4. What is the relationship between Earth being "tame" and human responsibility?
 
 **Contemporary Applications:**
+
 1. **Environmental Stewardship**: Earth made "tame" implies responsibility for its care
 2. **Quality vs. Quantity**: The emphasis on "best in deed" relates to modern focus on productivity
 3. **Digital Privacy**: Divine knowledge of inner thoughts parallels modern privacy concerns
@@ -381,11 +388,13 @@ For deeper engagement with these concept maps:
 You can create your own concept maps to visualize relationships between ideas as you study. Simple approaches include:
 
 1. **Central Concept Method**:
+
    - Place main theme in center
    - Connect related concepts with lines
    - Add details and examples as branches
 
 2. **Hierarchical Method**:
+
    - Start with most general concept at top
    - Branch down to increasingly specific concepts
    - Use consistent symbols for different types of relationships
@@ -396,3 +405,4 @@ You can create your own concept maps to visualize relationships between ideas as
    - Include feedback loops where applicable
 
 You can use tools like draw.io, Miro, or simple ASCII art to create your own concept maps as you study.
+

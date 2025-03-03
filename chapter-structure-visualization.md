@@ -11,6 +11,9 @@ This document provides visual representations of the structure and flow of each 
 
 ## Chapter 36: Ya-Sin
 
+
+
+
 ```
 SURAH YA-SIN STRUCTURE
 ───────────────────────────────────────────────
