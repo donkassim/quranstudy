@@ -1,6 +1,7 @@
 # سورة الملك (Al-Mulk) - Chapter 67 - The Sovereignty
 
 ## Overview
+
 - **Name**: Al-Mulk (The Sovereignty/Dominion)
 - **Number**: 67
 - **Classification**: Meccan
@@ -8,9 +9,11 @@
 - **Theme**: Allah's Absolute Power and Sovereignty, Life as a Test
 
 ## Tags
+
 #quran #chapter67 #almulk #sovereignty #divine_power #test
 
 ## Study Notes
+
 - Also known as "Al-Waqiyah" (The Protector) and "Al-Munjiyah" (The Savior)
 - The Prophet (ﷺ) said it intercedes for those who recite it regularly
 - Traditionally recited before sleeping for protection
